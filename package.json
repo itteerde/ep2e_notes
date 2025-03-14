@@ -1,0 +1,22 @@
+{
+  "name": "ep2e_notes",
+  "version": "1.0.0",
+  "description": "Semi-Structured Note Taking for Eclipse Phase 2nd Edition in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itteerde/ep2e_notes.git"
+  },
+  "author": "Erik Itter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itteerde/ep2e_notes/issues"
+  },
+  "homepage": "https://github.com/itteerde/ep2e_notes#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
